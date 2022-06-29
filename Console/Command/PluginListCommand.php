@@ -7,7 +7,7 @@
  * @copyright   Copyright (c) Diglin (https://www.diglin.com)
  */
 
-namespace MagentoHackathon\CliPluginList\Console\Command;
+namespace GrzegorzWalewski\CliPluginList\Console\Command;
 
 use Magento\Developer\Model\Di\PluginList;
 use Magento\Framework\App\ObjectManager;
