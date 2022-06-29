@@ -1,5 +1,5 @@
 {
-    "name": "magentohackathon/clipluginlist",
+    "name": "GrzegorzWalewski/clipluginlist",
     "description": "",
     "require": {
         "magento/magento-composer-installer": "*"
@@ -17,14 +17,14 @@
             "registration.php"
         ],
         "psr-4": {
-            "MagentoHackathon\\CliPluginList\\": ""
+            "GrzegorzWalewski\\CliPluginList\\": ""
         }
     },
     "extra": {
         "map": [
             [
                 "*",
-                "MagentoHackathon/CliPluginList"
+                "GrzegorzWalewski/CliPluginList"
             ]
         ]
     }
